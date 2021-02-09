@@ -5,7 +5,7 @@
 ```
 
 ## Creating
-Pygame project (pymaker 1.0.1 and upper):
+Pygame project (pymaker 1.0.b1 and upper):
 ```python
 from pymaker import *
 create(project_name="Example", project_type="pygame")
