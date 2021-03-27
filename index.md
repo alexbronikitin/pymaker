@@ -3,10 +3,10 @@
 ```
 >>> python -m pip install pymaker
 ```
-
-## Creating
-Pygame project (pymaker 1.0.b1 and upper):
-```python
-from pymaker import *
-create(project_name="Example", project_type="pygame")
+### OR
 ```
+>>> pip install pymaker
+```
+
+## GUI
+This is not created page. Sorry...
