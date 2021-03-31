@@ -3,10 +3,13 @@
 ```
 >>> python -m pip install pymaker
 ```
-### OR
+#### OR
 ```
 >>> pip install pymaker
 ```
 
-## GUI
-This is not created page. Sorry...
+## Cloud functions
+### Public_DB (only in release 0.1.a1 and upper):
+```
+Sorry, not created yet! :(
+```
